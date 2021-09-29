@@ -4,8 +4,8 @@
 body {
     font-size: 30px;
     font-family: "Roboto", sans-serif;
-    background-color: #eff5f8;
-    color: #001b44;
+    background-color: rgb(41, 41, 41);
+    color: aqua;
   }
   
   h2,
@@ -20,9 +20,9 @@ body {
   }
   
   button {
-    background-color: #001b44;
+    background-color: aqua;
     border-radius: 8px;
-    color: #fff;
+    color: black;
     cursor: pointer;
     font-size: .5em;
     letter-spacing: 0.21px;
@@ -38,7 +38,7 @@ body {
   }
   a {
     text-decoration: none;
-    color: #001b44;
+    color: aqua;
 }
 
 .hide{

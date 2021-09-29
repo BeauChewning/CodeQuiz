@@ -21,7 +21,7 @@ const questions = [
     },
     {
         title: "why does javaScript exsist",
-        choice: ["torment begginer devs", "bring peace to the coding world", "simply just because", "John made it so"],
+        choice: ["torment begginer devs", "bring peace to the world", "simply just because", "John made it so"],
         answer: "torment begginer devs"
     },
     {
