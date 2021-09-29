@@ -67,7 +67,7 @@ function getCurrentQuestions() {
                     //if someguess right answer it will say correct show message after 
                     //half a sec go to next next question 
                 } else {
-                    rightWrong.textContent = "you'r a idot";
+                    rightWrong.textContent = "your a fool";
                     time -= 10;
 
 
